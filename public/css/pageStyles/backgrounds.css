@@ -1,0 +1,14 @@
+.gradBG1 {
+  background-image: linear-gradient(to bottom right, #6277F9, #6B2DE2);
+}
+
+.gradBG2 {
+  background-image: linear-gradient(to bottom right, #4900de, #b59aff);
+  width: 100%;
+  height: 700px;
+  display: flex;  /*ca sa nu mai am problema cu margin-top*/
+}
+
+.gradBG3 {
+	background-image: linear-gradient(to bottom right, #bdbfff, #8f81ff);
+}

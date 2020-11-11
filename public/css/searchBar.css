@@ -1,0 +1,25 @@
+.search-container {
+	margin-left: 190px;
+	text-align: center;
+	display: inline-flex;
+}
+
+.search {
+	width: 120px;
+	height: 35px;
+	margin-right: 0px;
+	border-color: #7401DF;
+	color: #7401DF;
+}
+
+
+#searchValue {
+	height: 35px;
+	margin-left: 0px;
+}
+
+#searchBtn {
+	color: #7401DF;
+	font-size: 15px;
+}
+

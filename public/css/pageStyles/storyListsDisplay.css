@@ -1,0 +1,44 @@
+.storyBoard {
+	margin-top: 50px;
+}
+
+.storyHolderMain {
+	margin-left: 7%;
+	margin-bottom: 30px;
+}
+
+.storyHolderCover {
+	display: flex;
+  	align-items: center;
+	justify-content: center;
+}
+
+.storyHolderDetails {
+  	text-align: center;
+}
+
+.justifyText {
+	text-align: justify;
+ 	text-justify: inter-word;
+}
+
+.tags{
+	display: inline-block;
+}
+
+a.badge {
+	display: inline-block;
+	background-color: #F6AC00;
+}
+
+.storyModalHeader {
+	background-color: #8B71F0;
+	color: white;
+}
+
+.storyModalFooter {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+

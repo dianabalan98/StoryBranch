@@ -1,0 +1,48 @@
+.cover {
+
+	height: 190px;
+	width: 160px;
+	border-radius: 10px;
+
+}
+
+.overviewTitle {
+	font-weight: 500;
+	word-wrap: break-word;
+	margin-top: 30px;
+}
+
+.overviewContent {
+	text-align: justify;
+  	text-justify: inter-word;
+}
+
+.overviewCoverDiv {
+	display: inline;
+	margin: 0 auto;
+}
+
+.overviewCover {
+	margin-top: 40px;
+	width: 300px;
+	height: 410px;
+}
+
+.overviewContainer {
+	margin-top: 5px;
+	margin-bottom: 100px;
+}
+
+.choiceBack {
+	display: inline-block;
+}
+
+.favLinks {
+	color: #8B71F0;
+}
+
+.favLinks:hover {
+	color: #8B71F0;
+}
+
+

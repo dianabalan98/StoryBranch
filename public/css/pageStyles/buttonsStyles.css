@@ -1,0 +1,173 @@
+.readBtn {
+	border-radius: 25px;
+	width: 100px;
+	display: flex;
+	justify-content: center;
+	background-color: white;
+	border: solid 2px; 
+	border-color: #FFB701;
+	color: #FFB701;
+	font: bolder;
+	margin: 0 auto;
+}
+
+.readBtn:hover {
+	background-color: #8B71F0;
+	border-color: #8B71F0;
+	color: white;
+}
+
+.startReadingBtn {
+	width: 120px;
+}
+
+
+.authorBtn {
+	border-radius: 25px;
+	width: 100px;
+	border-color: #8B71F0;
+	color: #8B71F0;
+	font: bolder;
+}
+
+.authorBtn:hover {
+	background-color: #FFB701;
+	border-color: #FFB701;
+	color: white;
+}
+
+.storyManager {
+	border-color: #8B71F0;
+	color: #8B71F0;
+	background-color: white;
+}
+
+.storyManager:hover {
+	border-color: #29165E;
+	background-color: #29165E; 
+	color: white;
+}
+
+#backBtn {
+	border-radius: 25px;
+	width: 100px;
+	border-color: #8B71F0;
+	background-color: #8B71F0;; 
+	color: white;
+}
+
+#backBtn:hover {
+	background-color: #29165E;
+	border-color: #29165E;
+	color: white;
+}
+
+
+.commentBtn {
+	border-radius: 12px;
+	width: 100px;
+	height: 70px;
+	background-color: #8B71F0;
+	border-color: #8B71F0;
+	color: white;
+	font-size: 17px;
+	font-weight: bold;
+}
+
+.commentBtn:hover {
+	background-color: #29165E;
+	border-color: #29165E;
+	color: white;
+}
+
+.storeEditBtn {
+	border-radius: 25px;
+	width: 140px;
+	display: flex;
+	justify-content: center;
+	margin: 0 auto;
+	border-color: #8B71F0;
+	color: #8B71F0;
+	background-color: white;
+	font-weight: 500;
+}
+
+
+.storeEditBtn:hover {
+	border-color: #64F1B8;
+	color: #29165E;
+	background-color: #64F1B8;
+	font-weight: 500;
+}
+
+.addNewContentBtn {
+	border-radius: 25px;
+	width: 150px;
+	border-color: #8B71F0;
+	color: #8B71F0;
+	background-color: white;
+}
+
+.addNewContentBtn:hover {
+	border-color: #64F1B8;
+	color: #29165E;
+	background-color: #64F1B8;
+}
+
+.fragmentBtn {
+	border-radius: 25px;
+	width: 70px;
+	border-color: #29165E;
+	background-color: #29165E; 
+	color: white;
+}
+
+
+.editFragmentBtn:hover {
+	border-color: #FFB701;
+	background-color: #FFB701; 
+	color: white;
+}
+
+.deleteFragmentBtn:hover {
+	border-color: #B41148;
+	background-color: #B41148; 
+	color: white;
+}
+
+.btnRelation {
+	background-color:  #29165E;
+	border-color:  #29165E;
+	color: white;
+}
+
+.editRel:hover {
+	background-color:  #FFB701;
+	border-color:  #FFB701;
+	color: white;
+}
+
+.deleteRel:hover {
+	background-color:  #B41148;
+	border-color:  #B41148;
+	color: white;
+}
+
+.favListBtn {
+	border-radius: 25px;
+	width: 200px;
+	border-color: #8B71F0;
+	background-color: white; 
+	color: #8B71F0;
+}
+
+.favListBtn:hover {
+	border-color: #29165E;
+	background-color: #29165E; 
+	color: white;
+}
+
+.selectStats {
+	width: 200px;
+	border-radius: 25px;
+}

@@ -1,0 +1,30 @@
+
+.loginRegContainer {
+	height: 600px;
+}
+
+.loginRegCard {
+	margin-top: 80px;
+}
+
+.btnLogReg {
+	width: 200px;
+	background-color: #7065FF;
+	border-radius: 40px;
+	border: none;
+	text-align: center;
+	padding: 7px;
+}
+
+.btnLogReg:hover {
+	background-color: #3C12AF;
+}
+
+.forgotPass {
+	color: #FC8535;
+}
+
+.forgotPass:hover {
+	color: #FC8535;
+}
+

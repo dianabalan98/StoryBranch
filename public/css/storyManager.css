@@ -1,0 +1,16 @@
+.storyLink {
+	border-radius: 0;
+	width: 25%;
+}
+
+.btnRelation {
+	border-radius: 100%;
+}
+
+.hiddenError {
+	display: none;
+}
+
+.icon-edit {
+	color: white;
+}

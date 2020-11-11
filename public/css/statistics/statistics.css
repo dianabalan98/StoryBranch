@@ -1,0 +1,109 @@
+	.statsPageBtn {
+		height: 50px;
+ 		width: 50px;
+ 		margin-bottom: 50px;
+ 		margin-left: 10px;
+ 		border: none;
+ 		border-radius: 5px;
+ 		display: block;
+ 		outline:none;
+ 		background-color: white;
+	}
+
+
+	.statsPageBtn:hover {
+		background-color: #FFB701;
+	}
+
+	.statsPageBtn:focus {
+		outline: none; /*scoate bordura neagra urata*/
+	}
+
+	.statsIcons {
+		width: 40px;
+		height: 40px;
+	}
+
+
+	.btnsHolder {
+		display: inline-block;
+	}
+
+	#statsContainer {
+		margin-top: 0px;
+	}
+
+	#canvas-holder {
+		width: 60%;
+	    display: flex;
+	    float: center;
+	    margin-top: 10px;	
+	    background-color: #fffcfa;
+	    border-radius: 5px;    
+	}
+
+	#myChart {
+		margin: auto;
+	}
+
+	#leftStatsBtns {
+		float: left;
+		text-align: left;
+		width: 20%;
+	}
+
+	#leftStatsBtns {
+		margin-top: 50px;
+	}
+
+
+	#topStatsBtns {
+		text-align: center;
+		display: block;
+		margin: 0 auto;
+		margin-top: 20px;
+	}
+
+	#selectFragment {
+		visibility: hidden;
+	}
+
+	.graphicTitle {
+		display: block;
+		text-align: center;
+		margin: 0 auto;
+		margin-top: 10px;
+		visibility: hidden;
+	}
+
+	#favs {
+		display: block;
+		float: right;
+		text-align: center;
+		line-height: 50px;
+	}
+
+	#favsAuthor {
+		display: inline;
+		float: right;
+		height: 50px;
+ 		width: 50px;
+ 		border: none;
+ 		border-radius: 5px;
+ 		display: block;
+ 		outline:none;
+ 		background-color: #FFB701; 
+ 		line-height: 50px;
+
+ 		color: #29165E;
+
+	}
+
+
+	.favText {
+		color: white;
+	}
+
+	
+
+
