@@ -11,13 +11,13 @@ Core functionalities:
         - stories with multiple beginnings
         - stories with multiple endings
         - stories with multiple choices along the way
-        - combinations of the last 3 options above
+        - combinations of the last 3 options.
         
 7. Search public stories by title, author, tag.
 8. Read public stories like a multiple choice game.
 9. Add authors and stories to favorites page.
 10. Add emotional ratings to the read stories for each chapter.
-11. Receive recommendations of other similar stories based on the emotional ratings given to the current read story.
+11. Receive recommendations of other similar stories based on the emotional ratings given to the current read story, this algoritm is based on the Levenshtein distance formula.
 12. Authors can access statistics page for their public stories where they can see graph animations of the following useful info:
         - comments per story
         - favorites per story
